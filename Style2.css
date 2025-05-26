@@ -1,0 +1,57 @@
+body {
+
+background-color: #f0f0f0;
+
+font-family: Arial, sans-serif;
+
+text-align: center;
+
+}
+
+h1 {
+
+color: blue;
+
+}
+
+h2 {   
+
+color: blue;
+
+}
+
+h3 {
+
+color: blue;
+
+}
+
+h4 {
+
+font-size: 30px;
+
+color: purple;
+
+}
+
+p {
+
+color: red;
+
+font-size: 20px;
+
+}
+
+p1 {
+
+color: indigo;
+
+}
+
+img {
+
+width: 350px;
+
+border-radius: 300px;
+
+}
